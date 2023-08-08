@@ -1,0 +1,21 @@
+{
+  "name": "cypressautomation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "testSL-headless": "npx cypress run" ,
+    "testNorway-headless" : "npx cypress run --config baseUrl=https://patient.dipscloud.com/?hospitalid=1",
+    "PSS-in-headerMode": "./node_modules/.bin/cypress run --headed"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cy-verify-downloads": "^0.1.15",
+    "cypress": "^12.12.0",
+    "neat-csv": "^5.2.0"
+  },
+  "dependencies": {
+    "jquery": "^3.7.0"
+  }
+}

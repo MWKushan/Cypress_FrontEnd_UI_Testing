@@ -1,0 +1,18 @@
+{    
+    "patientId" : "14089418748",         
+    "PatientName" : "Peter Parker",
+    "PatientPassword" : "Welcome123$",
+    "PatientInfoButton" : "Show patient information", 
+    "PatientWelcomeMessage" : "Welcome to", 
+    "ConsentMessage" :  "We have registered the following consents from you. Here you can change your consents by clicking on or off in the list.",
+    "SmsReminderlabel" : "Allow SMS on time reminder",
+    "SMSCommunicationLabel" : "Allow SMS communication during the visit",
+    "SMSPaymentLabel" : "Allow SMS for payment",
+    "PatientAddress" : "3812 AKKERHAUGEN",
+    "PatientBirthday" : "Aug 14, 1994",
+    "dependant" : " Not registered",
+    "generalpractioner" : "Avtalespes 4, Buo, Npr Foretaket (Ikke Rør!)",
+    "ProofOfAttendanceCardHospitalMessage" : "If you have any questions, please contact Lanka Hospital, Maharagama. tel:0222222222/ test@test.com"
+    
+
+}
